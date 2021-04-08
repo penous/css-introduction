@@ -19,15 +19,14 @@ div > * {
 
 img {
   max-width: 20%;
-  height: 15em;
+  /* height: 15em; */
   border-radius: 50%;
 }
 
 div {
   display: grid;
-  justify-content: center;
   justify-items: center;
-  /* align-items: center; */
+  align-items: center;
   max-width: 70%;
   margin: 1.5em 1em 0;
   box-shadow: 5px 4px 8px 0 rgba(0, 0, 0, 0.3), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
